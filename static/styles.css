@@ -1,0 +1,44 @@
+
+        *{
+            background: gold;
+            box-sizing: border-box;
+            font-family: sans-serif;
+        }
+        main{
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        input{
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button{
+            width: 100%;
+            max-width: 200px;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            background-color: #eee;
+
+        }
+
+        button:hover{
+            background-color: #ddd;
+        }
+
+        .qr-img{
+            width: 100%;
+            max-width: 300px;
+            margin: 0 auto;
+        }
+
+        .qr-img img{
+            width: 100%;
+        }
